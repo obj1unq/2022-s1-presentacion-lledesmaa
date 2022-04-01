@@ -2,7 +2,7 @@
 
 ## Estudiante: Ledesma, Lucas.
 
-![Foto personal](Lucas.jpg)
+![Foto personal](Lucas.jpg "Este soy yo")
 
 - Hola soy Lucas, estudiante de TPI.
 
